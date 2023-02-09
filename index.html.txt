@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <link rel="stylesheet" href="style.css">
+
+<h1><strong>Q site</strong></h1>
+
+</head>
+
+<body>
+
+<p>Welcome to my webpage!</p>
+
+<p>
+
+    <a href="www.facebook.com">YouTube  </a>
+
+</p>
+
+<img src="https://images.pexels.com/photos/208745/pexels-photo-208745.jpeg?auto=compress&cs=tinysrgb&w=1200" alt="bridge">
+
+<h1><p id="highlight">
+    <em>Deez</em> <strong>Deeez</strong> are <div class="top"> awesome!,</div>
+</p></h1>
+
+</body>
+
+</html>
